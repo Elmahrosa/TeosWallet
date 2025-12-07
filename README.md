@@ -1,4 +1,6 @@
 # TEOS Wallet - Digital Pharaohs Gateway 𓀠
+“Part of the TEOS Egypt Blockchain Ecosystem — a unified civil, financial, and smart-city infrastructure powering digital banking, civic governance, DeFi, Pi integration, and national blockchain services.”
+
 
 <div align="center">
 
