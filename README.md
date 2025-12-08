@@ -19,7 +19,6 @@
 
 [![Solana](https://img.shields.io/badge/Blockchain-Solana-purple?style=for-the-badge)](https://solana.com)
 [![Pi Network](https://img.shields.io/badge/Verified-Pi%20Network-gold?style=for-the-badge)](https://minepi.com)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![Civic](https://img.shields.io/badge/Civic-Verified-success?style=for-the-badge)](https://www.change.org/p/join-the-movement-sign-the-petition-to-regulate-digital-currencies-in-egypt)
 [![Live](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)](https://wallet.teosegypt.com)
 
